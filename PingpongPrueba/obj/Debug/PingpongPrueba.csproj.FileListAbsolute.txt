@@ -1,0 +1,10 @@
+C:\Users\jdari\source\repos\PingpongPrueba\bin\Debug\PingpongPrueba.exe.config
+C:\Users\jdari\source\repos\PingpongPrueba\bin\Debug\PingpongPrueba.exe
+C:\Users\jdari\source\repos\PingpongPrueba\bin\Debug\PingpongPrueba.pdb
+C:\Users\jdari\source\repos\PingpongPrueba\obj\Debug\PingpongPrueba.csprojAssemblyReference.cache
+C:\Users\jdari\source\repos\PingpongPrueba\obj\Debug\PingpongPrueba.Form1.resources
+C:\Users\jdari\source\repos\PingpongPrueba\obj\Debug\PingpongPrueba.Properties.Resources.resources
+C:\Users\jdari\source\repos\PingpongPrueba\obj\Debug\PingpongPrueba.csproj.GenerateResource.cache
+C:\Users\jdari\source\repos\PingpongPrueba\obj\Debug\PingpongPrueba.exe
+C:\Users\jdari\source\repos\PingpongPrueba\obj\Debug\PingpongPrueba.pdb
+C:\Users\jdari\source\repos\PingpongPrueba\obj\Debug\PingpongPrueba.Juego.resources
